@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ro.unibuc.fmi.testingproject.ZumaGameTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.326 s - in ro.unibuc.fmi.testingproject.ZumaGameTest
