@@ -14,7 +14,7 @@ class ZumaNonequivalentMutantDeadTest {
     final ZumaNonequivalentMutantDead zumaNonequivalentMutantDead = new ZumaNonequivalentMutantDead();
 
 
-    @Disabled("Test should fail because mutant should be eliminated.")
+//    @Disabled("Test should fail because mutant should be eliminated.")
     @Test
     @DisplayName("Equivalence partitioning and cause-effect graphing")
     void givenValidBoardAndHandWhenFindMinimumOfStepsIsCalledThenReturnTheMinimumOfStepsToClearBoard() {
