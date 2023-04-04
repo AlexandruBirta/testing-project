@@ -1,6 +1,7 @@
 package ro.unibuc.fmi.testingproject;
 
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -14,7 +15,7 @@ class ZumaGameTest {
     /*
     Domain for board and hand:
     *************************
-    B1 = {b ih {R,Y,B,G,W} | |b| >= 1 and |b| <= 16}
+    B1 = {b in {R,Y,B,G,W} | |b| >= 1 and |b| <= 16}
     H1 = {h in {R,Y,B,G,W} | |h| >= 1 and |h| <= 5}
 
     Boundaries for board and hand:
